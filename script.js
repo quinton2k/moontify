@@ -70,12 +70,6 @@ const music_list = [
         music : 'music/2AM.mp3'
     },
     {
-        img : 'images/BangKhuang.jpg',
-        name : 'Bang Khuang',
-        artist : 'Justa Tee',
-        music : 'music/BangKhuang.mp3'
-    },
-    {
         img : 'images/ChuyenDoiTa.jpg',
         name : 'Chuyen Doi Ta',
         artist : 'Emcee L (Da LAB) ft Muộii',
@@ -100,6 +94,12 @@ const music_list = [
         music : 'music/TheOneThatGotAway.mp3'
     },
     {
+        img : 'images/TaylorFearless.jpg',
+        name : 'Love Story',
+        artist : 'Taylor Swift',
+        music : 'music/Love Story.mp3'
+    },
+    {
         img : 'images/Taylor.jpg',
         name : 'The Very First Night (Taylor\'s version)',
         artist : 'Taylor Swift',
@@ -116,6 +116,12 @@ const music_list = [
         name : 'Wildest Dream',
         artist : 'Taylor Swift',
         music : 'music/WildestDream.mp3'
+    },
+    {
+        img : 'images/ThangDien.jpg',
+        name : 'Thang Dien',
+        artist : 'Justa Tee, Phuong Ly',
+        music : 'music/ThangDien.mp3'
     },
 ];
 
