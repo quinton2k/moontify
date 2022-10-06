@@ -28,6 +28,18 @@ const music_list = [
         music : 'music/WeAreNeverEverGettingBackTogether.mp3'
     },
     {
+        img : 'images/Flashlight.jpg',
+        name : 'Flashlight',
+        artist : 'Jessie J',
+        music : 'music/Flashlight.mp3'
+    },
+    {
+        img : 'images/1989.png',
+        name : 'Style',
+        artist : 'Taylor Swift',
+        music : 'music/Style.mp3'
+    },
+    {
         img : 'images/PinkSweat$.jpg',
         name : 'At My Worst',
         artist : 'Pink Sweat$',
