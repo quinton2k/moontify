@@ -22,6 +22,12 @@ let updateTimer;
 
 const music_list = [
     {
+        img : 'images/Multiply.jpg',
+        name : 'Photograph',
+        artist : 'Ed Sheeran',
+        music : 'music/Photograph.mp3'
+    },
+    {
         img : 'images/1D.jpg',
         name : 'Night Changes',
         artist : 'One Direction',
@@ -32,6 +38,12 @@ const music_list = [
         name : 'We Are Never Ever Getting Back Together (Taylor\'s version)',
         artist : 'Taylor Swift',
         music : 'music/WeAreNeverEverGettingBackTogether.mp3'
+    },
+    {
+        img : 'images/Multiply.jpg',
+        name : 'Thinking Out Loud',
+        artist : 'Ed Sheeran',
+        music : 'music/ThinkingOutLoud.mp3'
     },
     {
         img : 'images/Flashlight.jpg',
@@ -52,16 +64,16 @@ const music_list = [
         music : 'music/AtMyWorst.mp3'
     },
     {
+        img : 'images/Divide.jpg',
+        name : 'Shape Of You',
+        artist : 'Ed Sheeran',
+        music : 'music/ShapeOfYou.mp3'
+    },
+    {
         img : 'images/1D.jpg',
         name : 'One Thing',
         artist : 'One Direction',
         music : 'music/OneThing.mp3'
-    },
-    {
-        img : 'images/1D.jpg',
-        name : 'Night Changes',
-        artist : 'One Direction',
-        music : 'music/NightChanges.mp3'
     },
     {
         img : 'images/Perfect_1d.jpg',
@@ -80,6 +92,12 @@ const music_list = [
         name : 'Blinding Lights',
         artist : 'The Weeknd',
         music : 'music/BlindingLights.mp3'
+    },
+    {
+        img : 'images/Divide.jpg',
+        name : 'Perfect',
+        artist : 'Ed Sheeran',
+        music : 'music/Perfect-Ed.mp3'
     },
     {
         img : 'images/TheWeeknd-3.jpg',
@@ -133,7 +151,7 @@ const music_list = [
         img : 'images/TaylorFearless.jpg',
         name : 'Love Story',
         artist : 'Taylor Swift',
-        music : 'music/Love Story.mp3'
+        music : 'music/LoveStory.mp3'
     },
     {
         img : 'images/Taylor.jpg',
