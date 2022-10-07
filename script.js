@@ -70,6 +70,12 @@ const music_list = [
         music : 'music/ShapeOfYou.mp3'
     },
     {
+        img : 'images/Taylor.jpg',
+        name : 'Everything Has Changed',
+        artist : 'Taylor Swift, Ed Sheeran',
+        music : 'music/EverythingHasChanged.mp3'
+    },
+    {
         img : 'images/1D.jpg',
         name : 'One Thing',
         artist : 'One Direction',
