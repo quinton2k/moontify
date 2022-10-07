@@ -22,6 +22,12 @@ let updateTimer;
 
 const music_list = [
     {
+        img : 'images/1D.jpg',
+        name : 'Night Changes',
+        artist : 'One Direction',
+        music : 'music/NightChanges.mp3'
+    },
+    {
         img : 'images/Taylor.jpg',
         name : 'We Are Never Ever Getting Back Together (Taylor\'s version)',
         artist : 'Taylor Swift',
@@ -44,6 +50,24 @@ const music_list = [
         name : 'At My Worst',
         artist : 'Pink Sweat$',
         music : 'music/AtMyWorst.mp3'
+    },
+    {
+        img : 'images/1D.jpg',
+        name : 'One Thing',
+        artist : 'One Direction',
+        music : 'music/OneThing.mp3'
+    },
+    {
+        img : 'images/1D.jpg',
+        name : 'Night Changes',
+        artist : 'One Direction',
+        music : 'music/NightChanges.mp3'
+    },
+    {
+        img : 'images/Perfect_1d.jpg',
+        name : 'Perfect',
+        artist : 'One Direction',
+        music : 'music/Perfect-1d.mp3'
     },
     {
         img : 'images/BangKhuang.jpg',
@@ -134,6 +158,12 @@ const music_list = [
         name : 'Thang Dien',
         artist : 'Justa Tee, Phuong Ly',
         music : 'music/ThangDien.mp3'
+    },
+    {
+        img : 'images/1D.jpg',
+        name : 'What Makes You Beautiful',
+        artist : 'One Direction',
+        music : 'music/WhatMakesYouBeautiful.mp3'
     },
 ];
 
