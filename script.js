@@ -100,6 +100,12 @@ const music_list = [
         music : 'music/BlindingLights.mp3'
     },
     {
+        img : 'images/TeenageDream.jpg',
+        name : 'Teenage Dream',
+        artist : 'Katy Perry',
+        music : 'music/TeenageDream.mp3'
+    },
+    {
         img : 'images/Divide.jpg',
         name : 'Perfect',
         artist : 'Ed Sheeran',
@@ -166,6 +172,12 @@ const music_list = [
         music : 'music/TheVeryFirstNight.mp3'
     },
     {
+        img : 'images/KatyPerry-1.jpg',
+        name : 'Firework',
+        artist : 'Katy Perry',
+        music : 'music/Firework.mp3'
+    },
+    {
         img : 'images/SeeYouAgain.png',
         name : 'See You Again',
         artist : 'Wiz Khalifa, Charlie Puth',
@@ -182,6 +194,12 @@ const music_list = [
         name : 'Thang Dien',
         artist : 'Justa Tee, Phuong Ly',
         music : 'music/ThangDien.mp3'
+    },
+    {
+        img : 'images/KatyPerry.jpg',
+        name : 'Hot N Cold',
+        artist : 'Katy Perry',
+        music : 'music/HotNCold.mp3'
     },
     {
         img : 'images/1D.jpg',
