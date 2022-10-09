@@ -22,6 +22,12 @@ let updateTimer;
 
 const music_list = [
     {
+        img: 'images/Passenger.jpg',
+        name: 'Let Her Go',
+        artist: 'Passenger',
+        music: 'music/LetHerGo.mp3'
+    },
+    {
         img : 'images/Multiply.jpg',
         name : 'Photograph',
         artist : 'Ed Sheeran',
