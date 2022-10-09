@@ -46,6 +46,12 @@ const music_list = [
         music : 'music/WeAreNeverEverGettingBackTogether.mp3'
     },
     {
+        img: 'images/Adele-Hello.jpg',
+        name: 'Hello',
+        artist: 'Adele',
+        music: 'music/Hello-Adele.mp3',
+    },
+    {
         img : 'images/Multiply.jpg',
         name : 'Thinking Out Loud',
         artist : 'Ed Sheeran',
@@ -74,6 +80,12 @@ const music_list = [
         name : 'Shape Of You',
         artist : 'Ed Sheeran',
         music : 'music/ShapeOfYou.mp3'
+    },
+    {
+        img: 'images/Adele-21.jpg',
+        name: 'Someone Like You',
+        artist: 'Adele',
+        music: 'music/SomeoneLikeYou.mp3',
     },
     {
         img : 'images/Taylor.jpg',
@@ -124,10 +136,10 @@ const music_list = [
         music : 'music/DieForYou.mp3'
     },
     {
-        img : 'images/TheWeeknd-2.jpg',
-        name : 'Out Of Time',
-        artist : 'The Weeknd',
-        music : 'music/OutOfTime.mp3'
+        img: 'images/Adele-21.jpg',
+        name: 'Rolling In The Deep',
+        artist: 'Adele',
+        music: 'music/RollingInTheDeep.mp3',
     },
     {
         img : 'images/TheWeeknd-1.jpg',
@@ -152,6 +164,12 @@ const music_list = [
         name : 'Da Lo Yeu Em Nhieu',
         artist : 'Justa Tee',
         music : 'music/DaLoYeuEmNhieu.mp3'
+    },
+    {
+        img : 'images/TheWeeknd-2.jpg',
+        name : 'Out Of Time',
+        artist : 'The Weeknd',
+        music : 'music/OutOfTime.mp3'
     },
     {
         img : 'images/JustaTee.jpg',
