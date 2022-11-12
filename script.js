@@ -22,6 +22,66 @@ let updateTimer;
 
 const music_list = [
     {
+        img : 'images/Midnight.png',
+        name : 'Labyrinth',
+        artist : 'Taylor Swift',
+        music : 'music/Labyrinth-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
+        name : 'Vigilante Shit',
+        artist : 'Taylor Swift',
+        music : 'music/VigilanteShit-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
+        name : 'Question',
+        artist : 'Taylor Swift',
+        music : 'music/Question-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
+        name : 'Midnight Rain',
+        artist : 'Taylor Swift',
+        music : 'music/MidnightRain-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
+        name : 'Bejeweled',
+        artist : 'Taylor Swift',
+        music : 'music/Bejeweled-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
+        name : 'Anti-Hero',
+        artist : 'Taylor Swift',
+        music : 'music/Anti-Hero-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
+        name : 'Lavender Haze',
+        artist : 'Taylor Swift',
+        music : 'music/LavenderHaze-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
+        name : 'Maroon',
+        artist : 'Taylor Swift',
+        music : 'music/Maroon-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
+        name : 'Snow On The Beach',
+        artist : 'Taylor Swift',
+        music : 'music/SnowOnTheBeach-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
+        name : 'You\'re On Your Own, Kid',
+        artist : 'Taylor Swift',
+        music : 'music/YoureOnYourOwn_ Kid-TaylorSwift.mp3'
+    },
+    {
         img: 'images/Passenger.jpg',
         name: 'Let Her Go',
         artist: 'Passenger',
