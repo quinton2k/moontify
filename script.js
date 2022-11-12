@@ -23,6 +23,36 @@ let updateTimer;
 const music_list = [
     {
         img : 'images/Midnight.png',
+        name : 'Dear Reader',
+        artist : 'Taylor Swift',
+        music : 'music/DearReader-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
+        name : 'Glitch',
+        artist : 'Taylor Swift',
+        music : 'music/Glitch-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
+        name : 'High Infidelity',
+        artist : 'Taylor Swift',
+        music : 'music/HighInfidelity-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
+        name : 'Paris',
+        artist : 'Taylor Swift',
+        music : 'music/Paris-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
+        name : 'Would\'ve, Could\'ve, Should\'ve',
+        artist : 'Taylor Swift',
+        music : 'music/Would_ve_ Could_ve_ Should_ve-Taylor.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
         name : 'Bigger Than The Whole Sky',
         artist : 'Taylor Swift',
         music : 'music/BiggerThanTheWholeSky-TaylorSwift.mp3'
