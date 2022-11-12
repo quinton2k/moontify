@@ -23,6 +23,36 @@ let updateTimer;
 const music_list = [
     {
         img : 'images/Midnight.png',
+        name : 'Bigger Than The Whole Sky',
+        artist : 'Taylor Swift',
+        music : 'music/BiggerThanTheWholeSky-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
+        name : 'The Great War',
+        artist : 'Taylor Swift',
+        music : 'music/TheGreatWar-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
+        name : 'Sweet Nothing',
+        artist : 'Taylor Swift',
+        music : 'music/SweetNothing-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
+        name : 'Mastermind',
+        artist : 'Taylor Swift',
+        music : 'music/Mastermind-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
+        name : 'Karma',
+        artist : 'Taylor Swift',
+        music : 'music/Karma-TaylorSwift.mp3'
+    },
+    {
+        img : 'images/Midnight.png',
         name : 'Labyrinth',
         artist : 'Taylor Swift',
         music : 'music/Labyrinth-TaylorSwift.mp3'
